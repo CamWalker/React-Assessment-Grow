@@ -1,0 +1,33 @@
+.info-container {
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+  padding-left: 15px;
+}
+.list-title {
+  font-size: 20px;
+  font-weight: normal;
+  color: #777;
+  margin: 10px 5px;
+}
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  text-decoration: none;
+  padding: 10px;
+  background: #F4F4F4;
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 0px 20px 0px;
+  color: #bbb;
+  border-radius: 3px;
+}
+.list-info {
+  color: #777;
+}
+.website-link {
+  color: #2BA7EA;
+  cursor: pointer;
+}
